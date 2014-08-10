@@ -1,0 +1,39 @@
+@font-face { font-family: BN; src: url('/font/BebasNeue.otf'); }
+
+.htext1 {
+	opacity: 0.5;
+}
+
+.htext2 {
+	opacity: 0.5;
+}
+
+.htext1:hover {
+	opacity: 1;
+}
+
+.htext2:hover {
+	opacity: 1;
+}
+
+.fuckyou {
+font-family: Verdana, sans-serif;
+line-height: 1em;
+color: #00ffbf;
+font-weight:bold;
+font-size: 129px;
+text-shadow:0px 0px 0 rgb(-24,231,167),0px 1px 0 rgb(-39,216,152),0px 2px 0 rgb(-53,202,138),0px 3px 0 rgb(-68,187,123),0px 4px 0 rgb(-82,173,109),0px 5px 0 rgb(-97,158,94), 0px 6px 0 rgb(-111,144,80),0px 7px 6px rgba(0,0,0,0.5),0px 7px 1px rgba(0,0,0,0.5),0px 0px 6px rgba(0,0,0,.2);
+}
+
+h1 {
+font-family:Impact;
+}
+
+h4 {
+font-family:Impact;
+}
+
+body {
+background-image:url("http://puu.sh/8FQer.png"),url("http://puu.sh/8FQer.png");
+background-color:#cccccc;
+}
